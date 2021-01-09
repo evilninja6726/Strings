@@ -1,2 +1,2 @@
-# Strings
+
 Programs using String
